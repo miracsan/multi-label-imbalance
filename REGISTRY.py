@@ -1,0 +1,1 @@
+double_class_methods = ["anchor", "ldam"]
